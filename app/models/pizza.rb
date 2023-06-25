@@ -1,2 +1,3 @@
 class Pizza < ApplicationRecord
+    
 end
